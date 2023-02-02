@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalog>
+    <human>
+        <city>Kyiv</city>
+        <street>Korolova</street>
+        <house>1</house>
+    </human>
+    <human>
+        <city>Dnipro</city>
+        <street>Levka</street>
+        <house>99</house>
+    </human>
+</catalog>

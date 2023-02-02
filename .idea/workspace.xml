@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1bc0ca5-5295-44b5-8f7a-1cb1eae4a3bc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProSevenLesson.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAXB/Catalog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAXB/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAXB/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAXB/catalog/CatalogType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAXB/catalog/HumanType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAXB/catalog/ObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAXB/output.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAXB/output.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SAXParser/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SAXParser/city.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/serialization_animal/Animal.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LBTQeFWXH35KFftS0y6j3A2BXk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/programs/IDE/projects IDE/ProSevenLesson/src",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "advanced.settings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\programs\IDE\projects IDE\ProSevenLesson\src" />
+      <recent name="D:\programs\IDE\projects IDE\ProSevenLesson\src\JAXB" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.JAXB.Main">
+    <configuration name="Animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="serialization_animal.Animal" />
+      <module name="ProSevenLesson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="serialization_animal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JAXB.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAXB.Main" />
+      <module name="ProSevenLesson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JAXB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SAXParser.Main" />
+      <module name="ProSevenLesson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SAXParser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JAXB.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Animal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1bc0ca5-5295-44b5-8f7a-1cb1eae4a3bc" name="Changes" comment="" />
+      <created>1675343464505</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675343464505</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
