@@ -1,26 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1bc0ca5-5295-44b5-8f7a-1cb1eae4a3bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProSevenLesson.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAXB/Catalog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAXB/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAXB/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAXB/catalog/CatalogType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAXB/catalog/HumanType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAXB/catalog/ObjectFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAXB/output.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAXB/output.xsd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SAXParser/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SAXParser/city.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/serialization_animal/Animal.java" afterDir="false" />
+    <list default="true" id="e1bc0ca5-5295-44b5-8f7a-1cb1eae4a3bc" name="Changes" comment="L7">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/javax_activation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/javax_xml_bind_jaxb_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sun_xml_bind_jaxb_core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sun_xml_bind_jaxb_impl.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +38,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Downloaded.Files.Path.Enabled": "false",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
@@ -130,6 +116,14 @@
       <option name="presentableId" value="Default" />
       <updated>1675343464505</updated>
     </task>
+    <task id="LOCAL-00001" summary="L7">
+      <created>1675354933604</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675354933604</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,6 +136,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="L7" />
+    <option name="LAST_COMMIT_MESSAGE" value="L7" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
